@@ -24,6 +24,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  url_launcher: ^6.0.12
 
   cupertino_icons: ^1.0.2
   curved_navigation_bar: ^1.0.1
@@ -41,6 +42,7 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   carousel_slider: ^4.2.1
 
+
 flutter:
   uses-material-design: true
   assets:
@@ -48,3 +50,6 @@ flutter:
     - assets/back9.jpg
     - assets/back8.jpg
     - assets/rm222-mind-22.jpg
+    - assets/rm222-mind-16.jpg
+    - assets/laptop-tablet-phone-along-with-graphics.jpg
+    - assets/grey.jpg
